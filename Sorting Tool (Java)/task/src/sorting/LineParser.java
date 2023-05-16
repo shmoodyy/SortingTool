@@ -9,6 +9,7 @@ class LineParser extends DataParser {
         super.sortingType = sortingType;
         parseLine();
     }
+
     public void parseLine() {
         List<String> lines = new ArrayList<>();
 

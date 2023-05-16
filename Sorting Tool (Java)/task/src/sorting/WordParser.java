@@ -9,6 +9,7 @@ class WordParser extends DataParser {
         super.sortingType = sortingType;
         parseWord();
     }
+
     public void parseWord() {
         List<String> words = new ArrayList<>();
 

@@ -9,6 +9,7 @@ class LongParser extends DataParser {
         super.sortingType = sortingType;
         parseLong();
     }
+
     public void parseLong() {
         List<Long> numbers = new ArrayList<>();
 
