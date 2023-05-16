@@ -1,0 +1,26 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+gradle/
+gradlew
+*.bat
+build
+
+
+# idea confid
+.idea
+
+# old stages
+/Sorting Tool (Java)/*
+!/Sorting Tool (Java)/task/
+/Sorting Tool (Java)/task/*
+!/Sorting Tool (Java)/task/src
+!/Sorting Tool (Java)/task/out.txt
+
+# Project exclude paths
+/Topics/Enumset/Set of vowels/out/
+/Topics/Enumset/Set of vowels/out/production/classes/
+/Topics/Enumset/Vaccination/out/
+/Topics/Enumset/Vaccination/out/production/classes/
